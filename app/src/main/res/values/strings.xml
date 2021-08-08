@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">loginRegister_FireBase</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="Register_name">Name</string>
+    <string name="Register_email">Email</string>
+    <string name="Register_password">Password</string>
+    <string name="Register_confirmpass">Confirm Password</string>
+    <string name="Register_BTN">Register</string>
+    <string name="resetpass">RESET PASSWORD</string>
+</resources>
